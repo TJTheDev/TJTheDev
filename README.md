@@ -7,11 +7,17 @@ I thrive on Python programming, automating processes, and delving into the intri
 
 Skills and Experience
 🐍 Python
+
 🖥️ Windows Server 2019, SQL Database Management
+
 🌐 HTML, CSS, JavaScript
+
 🛠 SCCM, Active Directory
+
 🔍 Network Troubleshooting, Cloud Environments
+
 🎨 UI/UX Design Principles
+
 📊 Agile Methodologies
 
 ## Examples of Work
