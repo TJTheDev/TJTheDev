@@ -7,7 +7,7 @@ I thrive on Python programming, automating processes, and delving into the intri
 
 Skills and Experience
 
-🐍 Python
+🐍 Python, .NET, C#, JAVA
 
 🖥️ Windows Server 2019, SQL Database Management
 
