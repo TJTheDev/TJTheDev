@@ -6,6 +6,7 @@ I'm TJ, a multifaceted software developer and IT professional with a passion for
 I thrive on Python programming, automating processes, and delving into the intricacies of network and database management. My work reflects a blend of development prowess and a keen eye for UI/UX design, emphasizing efficient, user-centered solutions.
 
 Skills and Experience
+
 🐍 Python
 
 🖥️ Windows Server 2019, SQL Database Management
