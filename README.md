@@ -21,7 +21,6 @@ I thrive on Python programming, automating processes, and delving into the intri
 🎨 UI/UX Design Principles
 
 📊 Agile Methodologies
-
 #
 
 <!--
