@@ -1,7 +1,7 @@
 ![Software Engineering and Development](https://github.com/TJTheDev/TJTheDev/blob/main/TJsProfileBanner)
 
 # Tarrylon Toney (TJ)
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
 I'm TJ, a software developer with a passion for leveraging technology to streamline operations and enhance user experiences. My journey spans developing logical workflows for government procedures, managing on-prem servers and environments, and crafting responsive web designs. 
 
 I thrive on Python programming, automating processes, and delving into the intricacies of network and database management. My work reflects a blend of development prowess and a keen eye for UI/UX design, emphasizing efficient, user-centered solutions.
@@ -27,6 +27,8 @@ I thrive on Python programming, automating processes, and delving into the intri
 #
 
 <!--
+
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 ## Examples of Work
 <img src="Link" >
 
