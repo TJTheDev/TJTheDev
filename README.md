@@ -1,12 +1,18 @@
-![Design and Development](LINK)
+![Software Engineering and Development](LINK)
 
 # Tarrylon Toney (TJ)
-I'm TJ, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+I'm TJ, a multifaceted software developer and IT professional with a passion for leveraging technology to streamline operations and enhance user experiences. My journey spans developing logical workflows for government procedures, managing cloud-based environments, and crafting responsive web designs. 
 
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+I thrive on Python programming, automating processes, and delving into the intricacies of network and database management. My work reflects a blend of development prowess and a keen eye for UI/UX design, emphasizing efficient, user-centered solutions.
+
+Skills and Experience
+🐍 Python
+🖥️ Windows Server 2019, SQL Database Management
+🌐 HTML, CSS, JavaScript
+🛠 SCCM, Active Directory
+🔍 Network Troubleshooting, Cloud Environments
+🎨 UI/UX Design Principles
+📊 Agile Methodologies
 
 ## Examples of Work
 <img src="Link" >
