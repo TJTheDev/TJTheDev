@@ -1,4 +1,4 @@
-![Software Engineering and Development](LINK)
+![Software Engineering and Development](https://github.com/TJTheDev/TJTheDev/blob/main/TJsProfileBanner)
 
 # Tarrylon Toney (TJ)
 I'm TJ, a multifaceted software developer and IT professional with a passion for leveraging technology to streamline operations and enhance user experiences. My journey spans developing logical workflows for government procedures, managing cloud-based environments, and crafting responsive web designs. 
