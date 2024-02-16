@@ -5,7 +5,9 @@ I'm TJ, a software developer with a passion for leveraging technology to streaml
 
 I thrive on Python programming, automating processes, and delving into the intricacies of network and database management. My work reflects a blend of development prowess and a keen eye for UI/UX design, emphasizing efficient, user-centered solutions.
 
-Skills and Experience
+#
+
+Skills & Experience
 
 🐍 Python, .NET, C#, JAVA
 
@@ -20,6 +22,8 @@ Skills and Experience
 🎨 UI/UX Design Principles
 
 📊 Agile Methodologies
+
+#
 
 <!--
 ## Examples of Work
